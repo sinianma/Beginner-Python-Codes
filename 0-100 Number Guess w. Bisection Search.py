@@ -1,6 +1,5 @@
 low = 0
 high = 100
-attempts = 0
 guess = (low+high)/2
 print ("Please think of a number betwen 0 and 100!")
 print ("Is your secret number " + str(int(guess)) + "?")
